@@ -1,0 +1,7 @@
+/* for global css */
+body {
+  direction: rtl;
+  background-image: url(./sky.jpg);
+  background-position:center;
+  
+}
